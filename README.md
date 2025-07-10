@@ -23,8 +23,12 @@
 </ul>
 
 <h2>🔧 Mis trabajos </h2>
-<h3>Novartes App</h3>
-<img src="https://github.com/user-attachments/assets/2af217fa-a994-4451-8609-16a36e26a3c8" />
+<h3>Novartes App Android Nativa</h3>
+<div style="display: flex; width: 100%;">
+  <img src="https://github.com/user-attachments/assets/2af217fa-a994-4451-8609-16a36e26a3c8" style="width: 33%; object-fit: cover;"/>
+  <img src="https://github.com/user-attachments/assets/d40e3e7c-d90e-41cc-a2a9-13d412882af8" style="width: 33%; object-fit: cover;"/>
+  <img src="https://github.com/user-attachments/assets/3b5fe1c0-2b2d-4d05-b3a8-6b3ef6528c44" style="width: 33%; object-fit: cover;"/>
+</div>
 
 <h2>📈 GitHub Stats</h2>
 
