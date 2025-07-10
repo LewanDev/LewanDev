@@ -16,17 +16,21 @@
 <h2>🧰 Tecnologías que uso</h2>
 
 <ul>
-  <li><b>Lenguajes:</b> Kotlin, Java, Dart</li>
-  <li><b>Frameworks:</b> Android SDK, Jetpack Compose, Flutter</li>
+  <li><b>Lenguajes:</b> Kotlin, Java, Dart, Javascript</li>
+  <li><b>Frameworks:</b> Android SDK, Jetpack Compose, Flutter, React Native</li>
   <li><b>Herramientas:</b> Android Studio, Visual Studio Code, Firebase, Git, REST APIs</li>
   <li><b>Diseño:</b> Material Design, Figma (para prototipos)</li>
 </ul>
+
+<h2>🔧 Mis trabajos </h2>
+<h3>Novartes App</h3>
+<img src="https://github.com/user-attachments/assets/2af217fa-a994-4451-8609-16a36e26a3c8" />
 
 <h2>📈 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lewandev&show_icons=true&theme=tokyonight" />
-  <br/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lewandev&theme=tokyonight" />
 </p>
 
